@@ -41,6 +41,10 @@ section{
     padding: 5%;
 }
 
+padding-bottom{
+    padding-bottom:3%;
+}
+
 .link_button{
     text-decoration: none;
     background-color:#eb4b7a;
@@ -85,6 +89,7 @@ h4{
 .my-latest-work{
     background-image: url("images/latest-work-bg.png");
     text-align: center;
+    height:600px;
 }
 
 .my-latest-work img{
@@ -94,9 +99,6 @@ h4{
     
 }
 
-.text-center{
-    
-}
 
 .pad-top{
     padding-top: 8%;
